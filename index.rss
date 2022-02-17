@@ -12,9 +12,9 @@
         </item>
     </channel>
 
-    <iten>
+    <item>
         <title>JAVA</title>
         <link>https://github.com/FM-Moyano/DAW-Programacion-Java</link>
         <descripcion>Ejercicios de Java, adaptacion al lenguaje con los ejecicios de python, pero con java y arrays  y funciones</descripcion>
-    </iten>
+    </item>
 </rss>
