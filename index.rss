@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Bienvenido a mi página</title>
+        <link>https://github.com/FM-Moyano</link>
+        <description>La página de github con los códigos de java y python</description>
+
+        <item>
+            <title>PYTHON</title>
+            <link>https://github.com/FM-Moyano/DAW-Programacion-Python</link>
+            <description>código de python. Ejercicios alternativas, repetitivos y secuenciales </description>
+        </item>
+    </channel>
+
+    <iten>
+        <title>JAVA</title>
+        <link>https://github.com/FM-Moyano/DAW-Programacion-Java</link>
+        <descripcion>Ejercicios de Java, adaptacion al lenguaje con los ejecicios de python, pero con java y arrays  y funciones</descripcion>
+    </iten>
+</rss>
