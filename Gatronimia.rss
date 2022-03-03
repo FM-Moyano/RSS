@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Gastronomía Cordobesa</title>
+        <link>https://www.tuscasasrurales.com/blog/comida-tipica-de-cordoba/</link>
+        <description>La gastronimía de Córdoba, los platos más tipicos y los restaurantes 
+                    donde se pueden disfrutar de esta comida</description>
+        <category>/Noticias/comida/córdoba</category>
+        <author>a21mocofr@gmail.org</author>
+        <language>es-es</language>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+
+        </skipHours>
+        <image>
+            <url>https://mundoxdescubrir.com/wp-content/uploads/2019/08/C%C3%B3rdoba-Gastronom%C3%ADa-2.jpg</url>
+            <title>Gastronimía de Córdoba</title>
+            <link>https://mundoxdescubrir.com/wp-content/uploads/2019/08/C%C3%B3rdoba-Gastronom%C3%ADa-2.jpg</link>
+        </image>
+
+        <item>
+            <title>Tortilla de Patatas </title>
+            <link>https://www.eldiadecordoba.es/cordoba/Bar-Santos-Cordoba-tortilla_0_1435357028.html</link>
+            <description>Bar Santos, las tortillas que se convirtieron en un emblema de Córdoba</description>
+            <author>a21mocofr@iesgrancapitan.org</author>
+            <enclosure type="image" url="https://www.eldiadecordoba.es/2020/02/07/cordoba/Francisco-Santos-creador-negocio-tortillas_1435367409_116656769_1200x675.jpg"/>
+        </item>
+    
+
+    <item>
+        <title>Salmorejo </title>
+        <link>http://salmorejocordobes.com/contenidos/</link>
+        <description>El salmorejo es una crema muy típica de la provincia de Córdoba, aunque, debido a su ligera textura y consistencia, suele servirse también como acompañamiento de otros alimentos, usándose como salsa.</description>
+        <enclosure type="image" url="https://cdn5.recetasdeescandalo.com/wp-content/uploads/2020/04/Salmorejo-cordobes-en-Thermomix.-Receta-tradicional-muy-facil.jpg"/>
+    </item>
+
+
+    <item>
+        <title>Flamenquín</title>
+        <description>La receta de uno de los platos más tipicos de la tierra</description>
+        <link>https://www.recetasdeescandalo.com/flamenquines-cordobeses-caseros-receta-de-tapa-tradicional/</link>
+        <enclosure type="image" url="https://cdn6.recetasdeescandalo.com/wp-content/uploads/2019/04/Flamenquines-cordobeses-caseros.-Receta-de-tapa-tradicional.jpg"/>
+    </item>
+
+    <item>
+        <title>Rabo de toro</title>
+        <desciption>Otra de las comidas cordobesas más tradicionales es el rabo de toro, un exquisito guiso con un origen muy antiguo. Se trata en esencia de un estofado, cuyo ingrediente principal es el rabo de toro o de vaca.
+            Receta de esta comida por Carlos Arguiñano 
+        </desciption>
+        <link>https://www.hogarmania.com/cocina/recetas/carnes/rabo-toro-cordobesa-karlos-arguinano.html</link>
+        <enclosure type="image" url="https://www.hogarmania.com/archivos/202102/karl6699-rabo-toro-xl-668x400x80xX-1.jpg"/>
+    </item>
+    
+</channel>
+</rss>
